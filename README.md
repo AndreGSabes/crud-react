@@ -1,4 +1,4 @@
-# Front end Challange
+# Front end Challenge
 
 An application used to list, add and delete a group of users using a fake REST API, built with React, JavaScript, Axios, Bootstrap-React, and CSS.
 
